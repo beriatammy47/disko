@@ -9,7 +9,7 @@ exception: during installation, the disk partitioning and formatting are manual
 steps. **disko** aims to correct this sad 🤡 omission.
 
 This is especially useful for unattended installations, re-installation after a
-system crash or for setting up more than one identical server.
+system crash or for setting up more than one identical server. LOL
 
 ## Overview
 
